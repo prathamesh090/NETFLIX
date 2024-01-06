@@ -32,3 +32,8 @@ This project was created by Prathamesh G. Special thanks to Bharat Intern for pr
 
 ## Preview
 
+
+https://github.com/prathamesh090/NETFLIX/assets/140579555/86be9f35-0aa4-40da-8e17-72b1d4fd9ef9
+
+![Screenshot 2024-01-06 195937](https://github.com/prathamesh090/NETFLIX/assets/140579555/980c80fc-e9de-4a80-bdd3-c937927d88cd)
+
